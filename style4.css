@@ -1,0 +1,102 @@
+body {
+    text-align: center;
+    font-family: arial;
+    background: linear-gradient(#c31432, #240b36);
+    margin: 10px;
+}
+
+#section1 {
+    background: linear-gradient(#ff9a9e 0%, #fecfef 99%, #fecfef 100%);
+    overflow: hidden;
+    height: 500px;
+}
+
+#books {
+    height: 300px;
+}
+
+#hp {
+    background: linear-gradient(#2193b0, #6dd5ed);
+    overflow:hidden;
+    height: 500px;
+}
+
+#harry {
+    height: 300px;
+}
+
+#lw {
+    background: linear-gradient(#de6262, #ffb88c);
+    overflow:hidden;
+    height: 500px;
+}
+
+#women {
+    height: 400px;
+}
+
+#gs {
+    background: linear-gradient(#eacda3, #d6ae7b);
+    overflow:hidden;
+    height:500px;
+}
+
+#stiltons {
+    height: 300px;
+}
+
+.menu {
+    list-style: none;
+    top: 0px;
+    position: fixed;
+    z-index: 10;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 0px;
+    background-color: #fed8b1;
+}
+
+.links {
+    float: left;
+    color: white;
+    padding-left: 9px;
+    padding-right: 9px;
+    font-size: 20px;
+    text-decoration-style: none;
+}
+
+.links:hover {
+    background: radial-gradient(#43cea2, #185a9d);
+    font-size: 25px;
+}
+
+#character {
+    background: linear-gradient(#d66d75, #e29587);
+        overflow:hidden;
+    height:1000px;
+}
+
+#reviews {
+    background: linear-gradient(#ddd6f3, #faaca8);
+        overflow:hidden;
+    height: 300px;
+}
+#me {
+    overflow:hidden;
+    background: linear-gradient(#a1c4fd , #c2e9fb);
+}
+.article {
+    font-size: 30px;
+}
+h1 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+#weasly {
+    height: 300px;
+}
+#mail {
+    font-size: 20px;
+}
